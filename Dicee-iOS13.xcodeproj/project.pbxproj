@@ -7,10 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		87100985259F1A26009ABF40 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADB0E00222AFA6090030352D /* Main.storyboard */; };
 		ADAD913C22B0FDAE007B460A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = ADAD913B22B0FDAE007B460A /* README.md */; };
 		ADB0DFFD22AFA6090030352D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB0DFFC22AFA6090030352D /* AppDelegate.swift */; };
 		ADB0E00122AFA6090030352D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB0E00022AFA6090030352D /* ViewController.swift */; };
-		ADB0E00422AFA6090030352D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADB0E00222AFA6090030352D /* Main.storyboard */; };
 		ADB0E00622AFA60E0030352D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADB0E00522AFA60E0030352D /* Assets.xcassets */; };
 		ADB0E00922AFA60E0030352D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADB0E00722AFA60E0030352D /* LaunchScreen.storyboard */; };
 		ADE1FB1422B39F0200DD2BD6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE1FB1322B39F0200DD2BD6 /* SceneDelegate.swift */; };
@@ -131,7 +131,7 @@
 				ADB0E00922AFA60E0030352D /* LaunchScreen.storyboard in Resources */,
 				ADB0E00622AFA60E0030352D /* Assets.xcassets in Resources */,
 				ADAD913C22B0FDAE007B460A /* README.md in Resources */,
-				ADB0E00422AFA6090030352D /* Main.storyboard in Resources */,
+				87100985259F1A26009ABF40 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
